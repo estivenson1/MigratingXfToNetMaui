@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratingXfToNetMaui.Android", "MigratingXfToNetMaui\MigratingXfToNetMaui.Android\MigratingXfToNetMaui.Android.csproj", "{998C97B9-B2D0-45DA-853D-11AB24E557DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratingXfToNetMaui.Android", "MigratingXfToNetMaui\MigratingXfToNetMaui.Android\MigratingXfToNetMaui.Android.csproj", "{998C97B9-B2D0-45DA-853D-11AB24E557DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratingXfToNetMaui.iOS", "MigratingXfToNetMaui\MigratingXfToNetMaui.iOS\MigratingXfToNetMaui.iOS.csproj", "{098DF419-2787-4B02-A9DA-18F1F9E94689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratingXfToNetMaui.iOS", "MigratingXfToNetMaui\MigratingXfToNetMaui.iOS\MigratingXfToNetMaui.iOS.csproj", "{098DF419-2787-4B02-A9DA-18F1F9E94689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratingXfToNetMaui", "MigratingXfToNetMaui\MigratingXfToNetMaui\MigratingXfToNetMaui.csproj", "{8A37DECF-702F-4A8B-A765-C6C099D2B340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratingXfToNetMaui", "MigratingXfToNetMaui\MigratingXfToNetMaui\MigratingXfToNetMaui.csproj", "{8A37DECF-702F-4A8B-A765-C6C099D2B340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,9 +43,8 @@ Global
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhone.Build.0 = Debug|iPhone
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhone.Deploy.0 = Debug|iPhone
-		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
 		{098DF419-2787-4B02-A9DA-18F1F9E94689}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
